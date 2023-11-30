@@ -1,0 +1,11 @@
+<a href="{{ path('app_twig') }}">Homepage</a>
+
+{# ... #}
+
+{% for post in app_twig %}
+    <h1>
+        <a href="{{ path('app_twig') }}">{{ post.title }}</a>
+    </h1>
+
+    {{ product.price|price }}
+{% endfor %}
