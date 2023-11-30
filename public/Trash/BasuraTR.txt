@@ -1,0 +1,29 @@
+||||||||||||||| "TWIG_Symfony 6" |||||||||||||||
+      
+      Extensiones Twig defenidas por SYMFONY
+                  |(Funciones)|
+// https://symfony.com/doc/current/reference/twig_reference.html
+
+
+              Crear y Usar PLANTILLAS
+          |(Crear la clase de extensión)|
+// https://symfony.com/doc/current/templates.html
+
+
+                Twig.Symfony.com
+                  |(Filters)|
+// https://twig.symfony.com/doc/3.x/filters/index.html
+
+
+    Plantilla para los filtros usados en SYMFONY
+             |(Indice de contenido)|
+// https://diego.com.es/filtros-en-twig
+
+
+                 Apoyo en VIDEOS
+                   |(YOUTUBE)|
+// https://www.youtube.com/watch?v=vL1MedR0iXc
+
+                HASHIDS
+            |(Symfony DOC)|
+// https://github.com/vinkla/hashids
