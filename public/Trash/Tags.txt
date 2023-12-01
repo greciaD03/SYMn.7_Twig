@@ -1,0 +1,10 @@
+{% trans %}Submitted by {{ author_name }} on {{ date }}{% endtrans %}
+
+{# Link to frontpage view. #}
+<a href="{{ path('view.frontpage.page_1)}}">{{ 'View all content'|t }}</a>
+
+{# Link to user entity/profile. #}
+<a href="{{ path('entity.user.canonical', {'user':user.id}) }}">{{ 'View user profile'|t }}</a>
+
+{# Link to node page. #}
+<a href="{{ path('entity.node.canonical' , {'node': node.id}) }}">{{'View node page'|t}}</a>
